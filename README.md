@@ -1,1 +1,2 @@
-# SpaceRush1
+# Space Rush Game 2D
+
